@@ -1,0 +1,60 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+astcheck
+astephem
+calendar
+cgicheck
+colors
+colors2
+cosptest
+dist
+easter
+get_test
+htc20b
+integrat
+jd
+jevent
+jpl2b32
+jsattest
+lun_test
+marstime
+oblitest
+persian
+phases
+prectest
+prectes2
+ps_1996
+ssattest
+tables
+testprec
+test_ref
+uranus1
+utc_test
+vislimit
